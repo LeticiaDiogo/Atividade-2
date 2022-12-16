@@ -1,0 +1,34 @@
+{
+  "Produto": [
+    {
+      "id": 1,
+      "nome": "Nike Air",
+      "quantidade": 100,
+      "preco_compra": 100,
+      "porcentagem": 12,
+      "preco_venda": 112,
+      "fornecedor": "Nike"
+    },
+    {
+      "nome": "Camisa Seleção Croata Casa Modric ",
+      "quantidade": 120,
+      "preco_compra": 100,
+      "porcentagem": 20,
+      "preco_venda": 120,
+      "fornecedor": "Nike",
+      "id": 4
+    }
+  ],
+  "Fornecedor": [
+    {
+      "razao_social": "NIKE DO BRASIL COMERCIO E PARTICIPACOES LTDA",
+      "cnpj": 59546515000134,
+      "contato": "bra.saopaulo.fiscal@nike.com",
+      "endereco": "13290-000",
+      "logradouro":"Estrada Da Cruz Grande",
+      "bairro": "Santo Antonio em Louveira",
+      "localidade": "São Paulo",
+      "id": 1
+    }
+  ]
+}
